@@ -1,0 +1,6 @@
+{
+  "requiredSdkVersion": "~0.0.95",
+  "name": "PluginPictureInPicture",
+  "javascriptEntrypointUrl": "PluginPictureInPicture.js",
+  "localesBaseUrl": "https://cdn.dominio.com/pluginabc/"
+}
