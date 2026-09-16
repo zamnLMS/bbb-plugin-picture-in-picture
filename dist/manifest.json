@@ -1,7 +1,7 @@
 {
   "requiredSdkVersion": "~0.0.95",
-  "name": "PluginPictureInPicture",
-  "javascriptEntrypointUrl": "PluginPictureInPicture.js",
-  "version": "0.0.4",
+  "name": "BbbPluginPictureInPicture",
+  "javascriptEntrypointUrl": "BbbPluginPictureInPicture.js",
+  "version": "0.0.8",
   "localesBaseUrl": "locales"
 }
